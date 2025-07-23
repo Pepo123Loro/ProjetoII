@@ -1,2 +1,3 @@
 # ProjetoII
-lista = [Banana,Maça]
+lista = [Banana,Maça,Morango]
+DonkeyGong = Bananza
