@@ -1,1 +1,2 @@
 # ProjetoII
+lista = [Banana,Maça]
